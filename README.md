@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @abrar39
-- 👀 I’m interested in data analysis and machine learning.
-- 🌱 I’m currently learning advance machine learning and signal processing.
-- 💞️ I’m looking to collaborate on open source data analysis projects.
+**Data Driven Maintenance | Machine Learning | Equipment Reliability**
+
+**Hi!** 👋
+
+Machine learning is transforming the industry. I look for opportunities to enhance efficiency and effectiveness of industrial processes through data driven decision making.
+Reducing maintenance related costs lead to improved bottom line. Therefore, I am specially interested in how ML can be used for timely prediction of machine failures and better planning of maintenance operations.
+
 
 <!---
 abrar39/abrar39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
