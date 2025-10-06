@@ -6,10 +6,10 @@ Machine learning is transforming the industry. I look for opportunities to enhan
 Reducing maintenance related costs lead to improved bottom line. Therefore, I am specially interested in how ML can be used for timely prediction of machine failures and better planning of maintenance operations.
 
 Reach out for collaboration using any of the following channels:
-- My (Linkedin Profile)[https://[Linkedin ](https://www.linkedin.com/in/abrar39/)]
-- My (Blog)[https://medium.com/@ab39]
-- (Kaggle Projects)[#]
-- (Twitter )[#]
+- [Linkedin Profile](https://www.linkedin.com/in/abrar39/)
+- [Blog](https://medium.com/@ab39)
+- [Kaggle Projects](#)
+- [Twitter](#)
 
 
 
